@@ -13,3 +13,6 @@ min_version = 0.14
 [author]
   name = "Hylke Visser"
   homepage = "https://github.com/htdvisser"
+
+[params]
+  hideGopher = false
